@@ -1,0 +1,19 @@
+.odd{
+    background-color: palevioletred;
+    font-family: Verdana;
+}
+
+.even#one{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd#third{
+    font-size: 24px;
+}
+
+.even#another{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
